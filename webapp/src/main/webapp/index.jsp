@@ -16,12 +16,17 @@
     <label for="mobile no."><b>Mobile no.</b></label>
     <input type="text" placeholder="Enter Mobile No." name="Mobile no." id="Mobile No." required>
     <br>
+
     <label for="psw"><b>Password</b></label>
     <input type="password" placeholder="Enter Password" name="psw" id="psw" required>
     <br>
 
     <label for="psw-repeat"><b>Repeat Password</b></label>
     <input type="password" placeholder="Repeat Password" name="psw-repeat" id="psw-repeat" required>
+    <br>
+
+    <label for="mother"><b>Mother</b></label>
+    <input type="mother" placeholder="Enter mother name" name="mother" id="mother" required>
     <br>
 
     <p>By creating an account you agree to our <a href="#">Terms & Privacy</a>.</p>
