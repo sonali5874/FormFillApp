@@ -25,8 +25,12 @@
     <input type="password" placeholder="Repeat Password" name="psw-repeat" id="psw-repeat" required>
     <br>
 
-    <label for="mother"><b>Mother</b></label>
+    <label for="mother"><b>Mother name</b></label>
     <input type="mother" placeholder="Enter mother name" name="mother" id="mother" required>
+    <br>
+
+    <label for="father"><b>father name</b></label>
+    <input type="father" placeholder="Enter father name" name="father" id="father" required>
     <br>
 
     <p>By creating an account you agree to our <a href="#">Terms & Privacy</a>.</p>
